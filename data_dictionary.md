@@ -4,7 +4,7 @@
 | RawgID | Integer | RAWG unique ID | RAWG API |
 | SteamURL | String | Steam URL | Steam |
 | Metacritic | Integer | Games metacritic rating | RAWG API |
-| Genres | String Array | List of genres associated with game | Steam |
+| Genres | String | Genres associated with game | Steam |
 | Indie | Boolean | Whether or not the game was created by indie developers | Steam |
 | Presence | Integer | Number of posts on social media sights e.g. Reddit | RAWG API |
 | MonetizationModel | String | How the game is setup to generate revenue | Steam |
@@ -19,8 +19,8 @@
 | DiscountedCost | Float | How much the game costs currently in USD | Steam |
 | Players | String | Single-player, multi-player, split-screen, etc | Steam |
 | Controller | Boolean | Whether or not the game can be played with a controller | Steam |
-| Languages | String Array | Which languages are available in-game | Steam |
+| Languages | String | Which languages are available in-game | Steam |
 | ESRB | String | Recommended appropriate age and type of inappropriate content | Steam |
 | Achievements | Integer | How many achievements can be earned in game | RAWG API |
-| Publisher | String Array | Companies responsible for publishing the game | RAWG API |
+| Publisher | String | Companies responsible for publishing the game | RAWG API |
 | Description | String | How the game developer describes the game | RAWG API |
