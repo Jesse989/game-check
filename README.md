@@ -8,4 +8,10 @@ Success is based on the metacritic score as there is no reliable way to find the
 
 ### Data
 Dataset is hosted on kaggle at: 
+
 [https://www.kaggle.com/jesneuman/pc-games](https://www.kaggle.com/jesneuman/pc-games)
+
+### Blog
+Blog post outlining and explaining entire process:
+
+[https://medium.com/@Jesse989/creating-a-dataset-from-scratch-b8e2f8752436](https://medium.com/@Jesse989/creating-a-dataset-from-scratch-b8e2f8752436)
