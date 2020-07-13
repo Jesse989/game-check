@@ -27,5 +27,4 @@
 | Storage | Integer | How much storage space is required to download the game | Steam |
 | Memory | Integer | How much memory is required to support the game | Steam |
 | Tags | String | User generated tags for describing game | Steam |
-| CreatorsCount | Integer | Number of creators linked to the game | RAWG API |
 | Description | String | How the game developer describes the game | RAWG API |
