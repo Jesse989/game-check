@@ -2,3 +2,4 @@
 __pycache__
 *.db
 game_list.html
+games.csv
